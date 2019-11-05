@@ -1,0 +1,2 @@
+# openCV
+Experimento com OpenCV
